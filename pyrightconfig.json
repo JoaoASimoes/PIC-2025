@@ -1,0 +1,7 @@
+{
+  "executionEnvironments": [
+    {"root": "src"}
+  ],
+  "typeCheckingMode": "basic",
+  "reportMissingTypeStubs": false
+}
